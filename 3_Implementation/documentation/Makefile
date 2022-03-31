@@ -1,0 +1,3 @@
+
+doc: Doxyfile
+	doxygen ./Doxyfile
