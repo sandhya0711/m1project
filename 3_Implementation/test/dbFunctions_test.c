@@ -10,14 +10,14 @@ char *loc = "./test/test.dat";
 
 void test_add_contact(void) {
     FILE* file = fopen(loc, "wb+");  
-    entryFormat new_entry = {256000, 8318331989, 30000, 2021, "Animesh"};
+    entryFormat new_entry = {256000, 8318331989, 30000, 2021, "xyz"};
     TEST_ASSERT_EQUAL(1, append(file, new_entry));
     fclose(file);
 }
 
 void test_delete_contact(void) {
     FILE* file = fopen(loc, "wb+"); 
-    entryFormat new_entry = {256000, 8318331989, 30000, 2021, "Animesh"};
+    entryFormat new_entry = {256000, 8318331989, 30000, 2021, "xyz"};
     TEST_ASSERT_EQUAL(1, append(file, new_entry));
     fclose(file);
     file = fopen(loc, "rb+");
@@ -28,8 +28,8 @@ void test_delete_contact(void) {
 
 void test_modify_contact(void) {
     FILE* file = fopen(loc, "wb+"); 
-    entryFormat new_entry1 = {256000, 8318331989, 30000, 2021, "Animesh"};
-    entryFormat new_entry2 = {256001, 8318331988, 30001, 2021, "Ankur"};
+    entryFormat new_entry1 = {256000, 8318331989, 30000, 2021, "xyz"};
+    entryFormat new_entry2 = {256001, 8318331988, 30001, 2021, "abc"};
     TEST_ASSERT_EQUAL(1, append(file, new_entry1));
     fclose(file);
     file = fopen(loc, "rb+");
@@ -41,7 +41,7 @@ void test_modify_contact(void) {
 }
 void test_search_contact(void) {
     FILE* file = fopen(loc, "wb+"); 
-    entryFormat new_entry = {256000, 8318331989, 30000, 2021, "Animesh"};
+    entryFormat new_entry = {256000, 8318331989, 30000, 2021, "xyz"};
     TEST_ASSERT_EQUAL(1, append(file, new_entry));
     fclose(file);
     file = fopen(loc, "rb");
