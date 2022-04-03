@@ -1,11 +1,9 @@
 
 # STEP-IN Mini Project - Database Management System
 
- cppcheck | Valgrind | Unit Testing | C/C++ CI |
+| cppcheck | Valgrind | Unit Testing | C/C++ CI |
 | --- | --- | --- | --- |
-| [![cppcheck-action](https://github.com/0711/MP-ltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/animesh1798/MP-ltts/actions/workflows/cppcheck.yml) | (https://github.com/sandhya0711/MP-ltts/actions/workflows/Valgrind.yml) | [![Unit testing](https://github.com/sandhya0711/MP-ltts/actions/workflows/unit-test.yml/badge.svg)](https://github.com/sandhya0711/MP-ltts/actions/workflows/unit-test.yml) | [![C/C++ CI](https://github.com/sandhya0711/MP-ltts/actions/workflows/c-build.yml/badge.svg)](https://github.com/sandhya0711/MP-ltts/actions/workflows/c-build.yml) |
-
-
+| [![cppcheck-action](https://github.com/animesh1798/MP-ltts/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/animesh1798/MP-ltts/actions/workflows/cppcheck.yml) | [![Valgrind](https://github.com/animesh1798/MP-ltts/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/animesh1798/MP-ltts/actions/workflows/Valgrind.yml) | [![Unit testing](https://github.com/animesh1798/MP-ltts/actions/workflows/unit-test.yml/badge.svg)](https://github.com/animesh1798/MP-ltts/actions/workflows/unit-test.yml) | [![C/C++ CI](https://github.com/animesh1798/MP-ltts/actions/workflows/c-build.yml/badge.svg)](https://github.com/animesh1798/MP-ltts/actions/workflows/c-build.yml) |
 
 
 * Mini project for Step-In LTTS
@@ -25,4 +23,5 @@
 |`5_Report`|Documentation of whole project|
 |`6_ImagesAndVideos`|Code Execution Images and Videos|
 
-
+# Pending Issues
+* Valgrind errors to be rectified
