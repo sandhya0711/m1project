@@ -1,9 +1,9 @@
 /**
  * @file main.c
- * @author Animesh Srivastava (animeshs1798@gmail.com)
+ * @author sandhya 
  * @brief 
  * @version 0.1
- * @date 2021-04-10
+ * 
  * 
  * @copyright Copyright (c) 2021
  * 
