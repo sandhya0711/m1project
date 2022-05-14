@@ -1,6 +1,9 @@
 
 # STEP-IN Mini Project - Database Management System
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ba8dd296cf434acd9ab085e8d6eed758)](https://app.codacy.com/gh/sandhya0711/m1project?utm_source=github.com&utm_medium=referral&utm_content=sandhya0711/m1project&utm_campaign=Badge_Grade_Settings)
+
+
 
 
 * Mini project for Step-In LTTS
