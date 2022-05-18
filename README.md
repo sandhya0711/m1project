@@ -1,6 +1,6 @@
-|Codacy Badge|C/C++ check|Unit Testing|
-|------------|-----------|------------|
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa711d27d4924a179709c94dc16dc45d)](https://www.codacy.com/gh/sandhya0711/m1project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sandhya0711/m1project&amp;utm_campaign=Badge_Grade)|[![C/C++ CI](https://github.com/sandhya0711/m1project/actions/workflows/c-build.yml/badge.svg)](https://github.com/sandhya0711/m1project/actions/workflows/c-build.yml)|[![Unit testing](https://github.com/sandhya0711/m1project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/sandhya0711/m1project/actions/workflows/unit-test.yml)
+|Codacy Badge|C/C++ Testing|Unit Testing|cppcheck|
+|------------|-----------|------------|-----------|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa711d27d4924a179709c94dc16dc45d)](https://www.codacy.com/gh/sandhya0711/m1project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sandhya0711/m1project&amp;utm_campaign=Badge_Grade)|[![C/C++ CI](https://github.com/sandhya0711/m1project/actions/workflows/c-build.yml/badge.svg)](https://github.com/sandhya0711/m1project/actions/workflows/c-build.yml)|[![Unit testing](https://github.com/sandhya0711/m1project/actions/workflows/unit-test.yml/badge.svg)](https://github.com/sandhya0711/m1project/actions/workflows/unit-test.yml)[![cppcheck-action](https://github.com/sandhya0711/m1project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sandhya0711/m1project/actions/workflows/c-cpp.yml)
 # STEP-IN Mini Project - Database Management System
 
 
