@@ -1,4 +1,6 @@
-
+|Codacy Badge|
+|------------|
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa711d27d4924a179709c94dc16dc45d)](https://www.codacy.com/gh/sandhya0711/m1project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sandhya0711/m1project&amp;utm_campaign=Badge_Grade)
 # STEP-IN Mini Project - Database Management System
 
 
